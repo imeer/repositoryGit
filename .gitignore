@@ -3,7 +3,7 @@
 .project
 .classpath
 .c9/
-*.launch
+*.code-workspace
 .settings/
 *.sublime-workspace
 
